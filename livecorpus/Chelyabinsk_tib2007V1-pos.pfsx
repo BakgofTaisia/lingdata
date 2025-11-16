@@ -23,7 +23,7 @@
         <Int>369</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>30140</Long>
+        <Long>38446</Long>
     </pref>
     <pref key="ExportTabDialog.SelectTiersMode">
         <String>Tier</String>
@@ -98,7 +98,7 @@
         <Float>120.99999</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>29967</Long>
+        <Long>37215</Long>
     </pref>
     <pref key="TokenizeDialog.SourceTier">
         <String>text@tib2007f</String>
@@ -123,10 +123,10 @@
         <Float>0.6</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>41463</Long>
+        <Long>32132</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>29967</Long>
+        <Long>37215</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@tib2007f">

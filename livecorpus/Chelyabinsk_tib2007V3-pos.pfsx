@@ -20,7 +20,7 @@
         <Int>349</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>38968</Long>
+        <Long>37076</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -79,7 +79,7 @@
         <Float>250.0</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>38904</Long>
+        <Long>36928</Long>
     </pref>
     <pref key="TokenizeDialog.SourceTier">
         <String>text@tib2007f</String>
@@ -104,10 +104,10 @@
         <Float>0.4</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>25212</Long>
+        <Long>30364</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>37452</Long>
+        <Long>36620</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@tib2007f">

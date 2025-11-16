@@ -17,7 +17,7 @@
         <String>words@tib2007f</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>35826</Long>
+        <Long>56252</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -76,7 +76,7 @@
         <Float>240.99995</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>35456</Long>
+        <Long>54012</Long>
     </pref>
     <pref key="TokenizeDialog.SourceTier">
         <String>text@tib2007f</String>
@@ -101,10 +101,10 @@
         <Float>0.4</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>50830</Long>
+        <Long>24656</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>54809</Long>
+        <Long>53548</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="text@tib2007f">

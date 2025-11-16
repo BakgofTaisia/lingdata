@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-15T21:36:58+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-11-11T01:28:58+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -89,79 +89,79 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>Я был маленький и не мог</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я был маленький и не мог</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
                 TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>До небес рукой доставать</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>до небес рукой доставать</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>Я любил/ бежать со всех ног</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я любил / бежать со всех ног</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts27">
-                <ANNOTATION_VALUE>А с утра не любил вставать</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а с утра не любил вставать</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts33">
-                <ANNOTATION_VALUE>Я сбегал по ступенькам вниз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я сбегал по ступенькам вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
                 TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>Подкарауливая друзей</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>подкарауливая друзей</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
                 TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>Я стоял в Средиземном море</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я стоял в Средиземном море</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
                 TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
-                <ANNOTATION_VALUE>Прямо возле моих дверей</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>прямо возле моих дверей</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts53">
-                <ANNOTATION_VALUE>По колено в огромном море</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>по колено в огромном море</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
                 TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE>Прямо возле моих дверей</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>прямо возле моих дверей</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
                 TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE>Мы по рекам спускались вниз</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мы по рекам спускались вниз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
                 TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>Там где надо искали брод</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>там где надо искали брод</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
                 TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
-                <ANNOTATION_VALUE>И бежали</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и бежали</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -171,7 +171,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -207,7 +207,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
                 TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
-                <ANNOTATION_VALUE>До</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>до</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -231,7 +231,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -273,7 +273,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
                 TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>А</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -309,7 +309,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
                 TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
-                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -339,7 +339,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
                 TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
-                <ANNOTATION_VALUE>Подкарауливая</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>подкарауливая</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -351,7 +351,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
                 TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -381,7 +381,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
                 TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>Прямо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>прямо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -405,7 +405,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
                 TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
-                <ANNOTATION_VALUE>По</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>по</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -435,7 +435,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
                 TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>Прямо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>прямо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -459,7 +459,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
                 TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
-                <ANNOTATION_VALUE>Мы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -489,7 +489,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
                 TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-                <ANNOTATION_VALUE>Там</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>там</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -519,7 +519,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
                 TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>И</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -798,8 +798,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a67" CVE_REF="cveid_20f78059-d2e8-4f05-b5e1-5ecdb74f5fb8">
-                <ANNOTATION_VALUE>PRON</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a67" CVE_REF="cveid_e981f31b-d38d-45ce-91fa-0003327d7136">
+                <ANNOTATION_VALUE>ADV</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
